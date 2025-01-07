@@ -1,1 +1,1 @@
-This repository is a collection of code I wrote while learning C Language.git 
+This repository is a collection of code I wrote while learning C Language.
